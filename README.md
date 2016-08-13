@@ -1,4 +1,4 @@
-# @nodulus/schemas
+# @nodulus/codulus
 
 
 form generator for data entry
