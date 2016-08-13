@@ -1,19 +1,21 @@
 {
   "name": "@nodulus/codulus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "edit your nodejs code inside nodulus",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "nodulus",
-    "cms",
-    "data editor",
-    "db manager",
+    "code editor",
     "nodulus-extension"
   ],
   "author": "nodulus",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodulusteam/-nodulus-codulus"
+  },
   "dependencies": {
     "@nodulus/api": "^1.0.0",
     "@nodulus/data": "^1.0.8",
